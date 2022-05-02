@@ -1,4 +1,4 @@
-# Simple-Youtube-Downloader
+# Simple Youtube Downloader
 My second simple project in python :D
 
 Youtube Downloader With Python
